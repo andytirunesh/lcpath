@@ -105,9 +105,4 @@ real matrix astar_lcp(real matrix Z, real scalar slope_weight,
         return(J(0, 2, .)) // Return empty matrix if no path found
     }
 }
-
-// Convert elevation matrix to cost matrix (if needed)
-real matrix elevation_to_cost(real matrix Z, real scalar slope_weight) {
-    return(Z :* slope_weight) // Simple example - modify as needed
-}
 end
