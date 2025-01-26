@@ -62,4 +62,4 @@
 {title:Author}
 
 {p 4 4 2}
-Your Name, {browse "mailto:your.aberha@ualberta.ca":your.aberha@ualberta.ca}
+Andu Berha, {browse "mailto:your.aberha@ualberta.ca":your.aberha@ualberta.ca}
