@@ -1,5 +1,5 @@
 program define lcpath
-    version 17
+    version 15
     syntax varlist(min=3 max=3 numeric), start(numlist) end(numlist) [SLOpe(real 1.0) SAVing(string)]
 
     // Parse input variables: x, y, z
