@@ -1,0 +1,3 @@
+v 3
+d lcpath
+p lcpath  Least-cost path calculation using grid coordinates and elevation data
