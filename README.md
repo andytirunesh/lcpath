@@ -102,7 +102,7 @@ The algorithm balances **Euclidean distance and elevation penalties**, allowing 
 
 ## Use Cases
 
-- **Agricultural Accessibility**: Assess travel distances for farmers in hilly terrains.
+- **Agricultural Market Accessibility**: Assess travel distances for farmers in hilly terrains.
 - **Infrastructure Planning**: Optimize road construction routes.
 - **Environmental Studies**: Model wildlife movement based on terrain.
 - **Disaster Response**: Identify optimal evacuation paths in flood-prone regions.
@@ -112,12 +112,6 @@ The algorithm balances **Euclidean distance and elevation penalties**, allowing 
 ## Algorithm Reference
 
 - **A* Algorithm**: Hart, P. E., Nilsson, N. J., & Raphael, B. (1968). *A Formal Basis for the Heuristic Determination of Minimum Cost Paths.* IEEE Transactions on Systems Science and Cybernetics, 4(2), 100-107.
-
----
-
-## License
-
-This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) file for details.
 
 ---
 
