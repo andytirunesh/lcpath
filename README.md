@@ -2,7 +2,7 @@
 
 **Author:** Andue Berha  
 **Repository:** [GitHub - andytirunesh/lcpath](https://github.com/andytirunesh/lcpath)  
-**License:** MIT  
+**License:** In Progress  
 
 ## Overview
 
