@@ -1,6 +1,6 @@
 # LCPATH: Least-Cost Path Calculation in Stata
 
-**Author:** Andue Berha  
+**Author:** Andu Berha  
 **Repository:** [GitHub - andytirunesh/lcpath](https://github.com/andytirunesh/lcpath)  
 **License:** In Progress  
 
